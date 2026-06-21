@@ -1,0 +1,5 @@
+# local build/download cache (re-created by scripts/50-whitesur.sh)
+.cache/
+*.tar.gz
+# per-machine rollback script lives in $HOME, not the repo
+macos-look-backup.sh
